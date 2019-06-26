@@ -235,6 +235,7 @@ li {
 
 /* FRONT PAGE SHORT CUTS */
 
+
 * {
     box-sizing: border-box
 }
@@ -256,7 +257,7 @@ li {
     background: rgba(0, 0, 0, 0.5);
     /* Black see-through */
     color: #f1f1f1;
-    width: 94.5%;
+    width: 94.7%;
     transition: .5s ease;
     opacity: 0;
     color: white;
@@ -270,3 +271,4 @@ li {
 .container:hover .overlay {
     opacity: 1;
 }
+
